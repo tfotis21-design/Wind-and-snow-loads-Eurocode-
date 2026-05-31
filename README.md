@@ -1,5 +1,5 @@
 # Wind and Snow Loads Calculator (Eurocode 1)
-## roject Structure
+## project Structure
 * `main.py` - The main execution script.
 * `anemosCALC.py` - Core logic and formulas for wind load calculations.
 * `anemosData.py` - Contains the necessary data tables, parameters, and constants for wind actions.
